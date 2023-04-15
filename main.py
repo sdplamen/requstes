@@ -9,11 +9,3 @@ def check_websites(websites):
 if __name__ == '__main__':
     monitored_sites = ['google.com', 'alabalanica.bg', 'yahoo.com', 'gmail.com' ]
     check_websites(monitored_sites)
-
-
-    '''
-    google.com -> OK
-    msn.com -> OK
-    amazon.com -> OK
-    asdf.bg -> Not OK
-    '''
